@@ -6,7 +6,6 @@ if (isset($_GET)) {
     $sql = "SELECT * from history WHERE sender = '$name' or receiver = '$name' ORDER BY time";
     $result = mysqli_query($conn, $sql);
     $rt = mysqli_fetch_all($result, MYSQLI_ASSOC);
-    // print_r($rt);
     mysqli_free_result($result);
     mysqli_close($conn);
 }
