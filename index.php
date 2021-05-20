@@ -64,11 +64,6 @@
                             <li>
                                 <a href="transaction.php" style="font-weight:bold;">CUSTOMERS</a>
                             </li>
-
-                            <li>
-                                <a href="contact.php" style="font-weight:bold;">CONTACT</a>
-                            </li>
-
                         </ul>
                     </div>
                 </div>

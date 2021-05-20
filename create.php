@@ -77,7 +77,7 @@ if (isset($_POST['submit'])) {
             <nav class="light-blue darken-1">
                 <div>
                     <div class="nav-wrapper">
-                        <img src="images/logo.png" width="90px" height="70px">
+                        <img src="images/logo1.png" width="90px" height="70px">
                         <a href="index.php" class="brand-logo" style="font-weight:bold;">SPARKS BANK</a>
                         <ul class="right" style="margin-right:20px">
                             <li><a href="index.php" style="font-weight:bold;">HOME</a></li>
