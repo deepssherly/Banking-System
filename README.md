@@ -4,16 +4,16 @@
 
 > ## Tech Stacks Used:
 > ### Front-End:
-~ HTML<br>
-~ CSS
+<b>~ HTML<br>
+~ CSS</b>
 > ### Back-End:
-~ PHP<br>
-~ MySQL
+<b>~ PHP<br>
+~ MySQL</b>
 
 > ## Website Flow:
-Home > View Customers > Select One Customer > Transfer Money > Select Receiver > View Transaction History 
+<b>Home > View Customers > Select One Customer > Transfer Money > Select Receiver > View Transaction History</b>
 
-Youtube Link - [https://youtu.be/EUyEGF-e8DA](https://youtu.be/EUyEGF-e8DA)
+<b>Youtube Link - [https://youtu.be/EUyEGF-e8DA](https://youtu.be/EUyEGF-e8DA)</b>
 
 
 
